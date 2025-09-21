@@ -1,0 +1,5 @@
+1. Aprendí a clonar un repositorio a mi equipo
+2. hacer cambios y subirlo al repositorio
+3. Crear ramas
+4. Usar un poco mejor la consola git bash
+5. moverme de carpetas con cd
